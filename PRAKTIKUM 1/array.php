@@ -8,7 +8,7 @@ foreach ($fruits as $fruits){
     echo "<li>" . $fruits . "</li>";
 }
 echo "</ol>";
-
+ 
 
 
 ?>

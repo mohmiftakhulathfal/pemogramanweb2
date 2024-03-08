@@ -9,4 +9,4 @@ if($Nilai >= 90){
     echo "Nilai kamu lumayan bagus";
 }
 
-?>
+?> 
